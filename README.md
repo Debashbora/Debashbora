@@ -14,9 +14,7 @@
 <br />
 
 ### Languages and Tools:
-
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/c++.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/c++.svg" />
+<img align="left" alt="c++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/c++.svg" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
