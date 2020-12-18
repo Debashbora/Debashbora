@@ -23,6 +23,7 @@
 
 <br />
 <br />
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="Debashbora's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Debashbora&show_icons=true&hide_border=true" />
+
 [instagram]: https://www.instagram.com/debashbora/
 [linkedin]: https://www.linkedin.com/in/debash-bora-10533b195/
