@@ -4,7 +4,6 @@
 - 🔭 I’m currently pursuing B.tech with CSE!
 - 🌱 I’m currently learning more about c++ and DS 
 - 👯 I’m also currently learning Qt framework.
-- 🥅 2021 Goals: To become atleast 5 star programmer in CP(Competetive programming)
 - ⚡ Fun fact: I love to watch Anime and read manga.
 
 ### Connect with me:
